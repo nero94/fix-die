@@ -1,0 +1,14 @@
+{
+  "name": "fix-die",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./fix-die",
+    "dev": "nodemon ./fix-die"
+  },
+  "dependencies": {
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0",
+    "winston": "^3.2.1"
+  }
+}
